@@ -5,3 +5,14 @@ bitgen by mikllo
 
 Купить версию с поддержкой proxy и быстрой работой тут @Mkill95
 
+
+
+Настройка разработки
+pip install -r Requirments.txt
+
+python3.8 main.py
+
+Установка Windows
+pip install -r Requirments.txt
+
+start.bat
